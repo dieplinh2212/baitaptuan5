@@ -1,0 +1,6 @@
+  public void Xuat()
+        {
+            Console.WriteLine();
+            Console.WriteLine("Ho va ten: {0}", HoTen);
+            Console.WriteLine("Nam sinh: {0}", Namsinh);
+            Console.WriteLine("Dia chi: {0}", DiaChi);
